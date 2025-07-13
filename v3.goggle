@@ -6,8 +6,8 @@
 ! author: Me
 
 ! Boost
-$boost=4,site=srf.ch
-$boost=3,site=swisscom.ch
+$boost=2,site=swisscom.ch
 
 $downrank=5,site=thehindu.com
 $downrank=5,site=indianexpress.com
+$downrank=5,site=hindustantimes.com
