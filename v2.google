@@ -1,0 +1,14 @@
+! name: News
+!
+! description: Rerank results
+!
+! public: false
+! author: Me
+
+! Boost
+$boost=4,site=srf.ch
+$boost=3,site=tagesschau.de
+$boost=3,site=swisscom.ch
+$boost=2,site=20min.ch
+
+$downrank=5,site=thehindu.com
