@@ -10,10 +10,5 @@ $boost=4,site=srf.ch
 $boost=3,site=tagesschau.de
 $boost=3,site=swisscom.ch
 $boost=2,site=20min.ch
-! $boost=2,site=bbc.com
-! $boost=2,site=nytimes.com
-! $boost=2,site=c-span.org
-! $boost=2,site=washingtonpost.com
-! $boost=2,site=theguardian.com
 
 $downrank=5,site=thehindu.com
